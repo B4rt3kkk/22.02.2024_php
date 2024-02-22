@@ -1,0 +1,7 @@
+1. Napisz program który bedzie wyznaczał średnią prędkość pojazdu pokonującego podaną odległość w podanym czasie aby sprawdzic dzisalanie programu oblicz srednia prędkość z pojazu 
+
+2. Napisz program kótry przeliczy wielkośc w bajtach na bit 
+
+3. Napisz program który wartość prędkości podaną w metrach na sekunde napisze w kilometrach na godzine 
+
+4. Napisz program który bedzie przeliczał zł na dolary
